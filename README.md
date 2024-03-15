@@ -1,5 +1,5 @@
 # MERN Chat App with Socket.io
-Link to repo [here](https://github.com/NIXBLACK11/chatApp)
+Link to repo [here](https://github.com/NIXBLACK11/codeChat)
 ## Overview
 This MERN (MongoDB, Express.js, React.js, Node.js) Chat App is a real-time messaging application that utilizes the power of Socket.io for seamless communication between users. The app allows users to sign up, log in, and engage in real-time chat conversations.
 
